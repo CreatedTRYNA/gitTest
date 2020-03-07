@@ -6,5 +6,6 @@ public class createdTRYNA {
     }
     public void tryna4ever(){
         System.out.println("66666");
+        System.out.println("66666");
     }
 }
